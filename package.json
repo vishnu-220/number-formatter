@@ -1,0 +1,11 @@
+{
+  "name": "vishnu-npm-validation",
+  "version": "0.0.1",
+  "description": "validation done using express-validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "“vishnu\nnpm set init.author.email “vishnuit18@gmail.com",
+  "license": "MIT"
+}
